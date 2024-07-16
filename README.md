@@ -1,6 +1,5 @@
-## Hi there 👋
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1139F7&random=false&width=435&lines=Web+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=web+developer+text)](https://git.io/typing-svg)
 </p>
 
 # <summary><strong>Hi there :wave: , Dina Aprian(RYAN)!</strong></summary>
@@ -10,9 +9,6 @@ Lifelong Learner, currently working as budagh corporate.
 </p>
 
 ### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
