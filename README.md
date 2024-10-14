@@ -1,7 +1,3 @@
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=web+developer+text)](https://git.io/typing-svg)
-</p>
-
 # <summary><strong>Hi there :wave: , Dina Aprian(RYAN)!</strong></summary>
 
 Lifelong Learner, currently working as budagh corporate.
@@ -25,7 +21,10 @@ Lifelong Learner, currently working as budagh corporate.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/ry4ns04">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+<a href="https://x.com/Ry4ns04">
+  <img align="left" alt="ry4ns04" width="20px" src="https:https://simpleicons.vercel.app/x/000" />
+</a>
+<a href="https://www.linkedin.com/in/ry4ns04/"
+  <img align="left" alt="ry4ns04" width="20px" src="https://simpleicons.vercel.app/linkedin/000" />
 </a>
 
