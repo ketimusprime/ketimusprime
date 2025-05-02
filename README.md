@@ -34,6 +34,5 @@ Lifelong Learner, currently working as budagh corporate.
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ketimusprime&show_icons=true&locale=en" alt="ketimusprime" /></p>
 
 
