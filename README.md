@@ -4,6 +4,13 @@ Lifelong Learner, currently working as budagh corporate.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketimusprime&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
+### <summary><strong>Yosh!</strong></summary>
+<p>
+    - :keyboard: I’m currently IT Spv. </br>
+    - :speech_balloon: Ask me about anything.</br>
+    - :mailbox: How to reach me: <a href="mailto:ry4ns04@gmail.com">Email me!</a>  </br>
+    - :cloud: Pronouns: Hi/Him. </br>
+<p>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ry4ns04) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ry4ns04) 
@@ -29,17 +36,4 @@ Lifelong Learner, currently working as budagh corporate.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ketimusprime&show_icons=true&locale=en" alt="ketimusprime" /></p>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently IT Spv. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:ry4ns04@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: Hi/Him. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<p align="left">
-<a href="https://twitter.com/ry4ns04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ry4ns04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ry4ns04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ry4ns04" height="30" width="40" /></a>
-</p>
 
